@@ -280,7 +280,7 @@ float: left;
   line-height: 1.6;
 }
 
-@media  (max-width: 375px) {
+@media  (max-width: 300px) {
   .container {
     display: flex;
     flex-direction: column;
